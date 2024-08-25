@@ -1,0 +1,14 @@
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\bin\Debug\net8.0\SwaggerHelperApp.VersioningTool.deps.json
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\bin\Debug\net8.0\SwaggerHelperApp.VersioningTool.dll
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\bin\Debug\net8.0\SwaggerHelperApp.VersioningTool.pdb
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\bin\Debug\net8.0\SwaggerHelperApp.VersioningTool.xml
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\obj\Debug\net8.0\SwaggerHelperApp.VersioningTool.csproj.AssemblyReference.cache
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\obj\Debug\net8.0\SwaggerHelperApp.VersioningTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\obj\Debug\net8.0\SwaggerHelperApp.VersioningTool.AssemblyInfoInputs.cache
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\obj\Debug\net8.0\SwaggerHelperApp.VersioningTool.AssemblyInfo.cs
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\obj\Debug\net8.0\SwaggerHelperApp.VersioningTool.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\obj\Debug\net8.0\SwaggerHelperApp.VersioningTool.dll
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\obj\Debug\net8.0\refint\SwaggerHelperApp.VersioningTool.dll
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\obj\Debug\net8.0\SwaggerHelperApp.VersioningTool.xml
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\obj\Debug\net8.0\SwaggerHelperApp.VersioningTool.pdb
+C:\Users\ozgur\Github\HelperApp\HelperSwagger\SwaggerHelperApp.VersioningTool\obj\Debug\net8.0\ref\SwaggerHelperApp.VersioningTool.dll

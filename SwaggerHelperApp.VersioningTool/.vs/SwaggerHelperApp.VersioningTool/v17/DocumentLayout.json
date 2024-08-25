@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozgur\\Github\\HelperApp\\HelperSwagger\\SwaggerHelperApp.VersioningTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA35CCCB-29D1-4C08-B5D7-26FE6D534C0E}|SwaggerHelperApp.VersioningTool.csproj|c:\\users\\ozgur\\github\\helperapp\\helperswagger\\swaggerhelperapp.versioningtool\\swaggerhelperapp.versioningtool.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AA35CCCB-29D1-4C08-B5D7-26FE6D534C0E}|SwaggerHelperApp.VersioningTool.csproj|solutionrelative:swaggerhelperapp.versioningtool.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 309,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwaggerHelperApp.VersioningTool",
+              "DocumentMoniker": "C:\\Users\\ozgur\\Github\\HelperApp\\HelperSwagger\\SwaggerHelperApp.VersioningTool\\SwaggerHelperApp.VersioningTool.csproj",
+              "RelativeDocumentMoniker": "SwaggerHelperApp.VersioningTool.csproj",
+              "ToolTip": "C:\\Users\\ozgur\\Github\\HelperApp\\HelperSwagger\\SwaggerHelperApp.VersioningTool\\SwaggerHelperApp.VersioningTool.csproj",
+              "RelativeToolTip": "SwaggerHelperApp.VersioningTool.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T17:09:36.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

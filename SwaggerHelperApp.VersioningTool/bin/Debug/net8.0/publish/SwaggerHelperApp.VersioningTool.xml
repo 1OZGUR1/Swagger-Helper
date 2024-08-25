@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerHelperApp.VersioningTool</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerHelperApp.VersioningTool.SwaggerServiceHelpers.AnnatationSupportHelper.AddAnnatationDocSupportExtension(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            En - This method is used to opt in to Swagger documentation annotation
+            support in your ASP.NET Core application. Adding Swagger annotations
+            allows developers to make the API more understandable and documented.
+            ------------------
+            Tr - Bu yöntem, ASP.NET Core uygulamanızda Swagger belgelerine
+            açıklama desteği (annotation support) seçmek için kullanılır.
+            Swagger açıklamalarının eklenmesi, geliştiricilere API'yi daha
+            anlaşılır ve belgelenmiş hale getirme imkanı sağlar.
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerHelperApp.VersioningTool.SwaggerServiceHelpers.SwaggerJwtSecurityHelper.AddSwaggerJwtSecuritySupportExtension(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            En - This method is used to select support for configuring identity
+            with JWT (JSON Web Token) in your ASP.NET Core application according to
+            Swagger documentation. The purpose of the method is to enable
+            JWT based authorization for API execution via Swagger UI.
+            It requires users to provide a "Bearer" token in the
+            "Authorization" header when using the API.
+            ---------------
+            Tr - Bu yöntem, ASP.NET Core uygulamanızda Swagger belgelerine
+            JWT (JSON Web Token) ile kimlik yapılandırma desteğini seçmek için kullanılır.
+            Metodun amacı, Swagger UI üzerinden API gerçekleştirilmesini
+            JWT tabanlı yetkilendirmeyi sağlayabilmektir. Kullanıcıların API'yi kullanırken
+            "Yetkilendirme" başlığında bir "Hamiline" jeton sağlamasını gerektirir.
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerHelperApp.VersioningTool.SwaggerServiceHelpers.SwaggerSecurityHelper.AddSwaggerSecuritySupportExtension(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            En - This method is used to provide security support for Swagger documents in ASP.NET Core
+            application. It is especially useful in projects that aim to protect your API using JWT (JSON
+            Web Token) identity ranges. The function of the method is to select a security requirement
+            (security requirement) for Swagger products and thus require users to authenticate with a valid
+            "Bearer" token when using the API.
+            ----------------------
+            Tr - Bu yöntem, ASP.NET Core uygulamasında Swagger belgelerine güvenlik desteği sağlamak için
+            kullanılır. Özellikle JWT (JSON Web Token) kimlik aralığı aralıklarını kullanarak API'nizi
+            korumayı amaçlayan projelerde kullanışlıdır. Metodun işlevi, Swagger ürünlerine bir güvenlik
+            gereksinimleri (güvenlik gereksinimi) seçme ve bu sayede kullanıcıların API'yi kullanırken
+            geçerli bir "Bearer" token ile yetkilendirme yapmalarını gerektirmektir.
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerHelperApp.VersioningTool.SwaggerServiceHelpers.XmlDocSupportHelper.AddXmlDocSupportExtension(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            En - This Extension Method is Add Xml Documantation
+            For Endpoint and Controllers
+            -------------
+            Tr - Bu ekstenşin metod endpoind ve controller'lar
+            üzerindeki yorum dökümantasyon desteği sağlar
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
